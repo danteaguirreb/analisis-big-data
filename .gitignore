@@ -1,0 +1,16 @@
+# Datos y artefactos regenerables
+*.csv
+*.parquet
+*.delta
+*.html
+*.log
+outputs/
+models/
+mlruns/
+mlartifacts/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
